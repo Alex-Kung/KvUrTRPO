@@ -1,0 +1,5 @@
+C:\Users\Саша\Desktop\Курсачи\TRPO\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Desktop\Курсачи\TRPO\MyMath\bin\Debug\MyMath.dll
+C:\Users\Саша\Desktop\Курсачи\TRPO\MyMath\bin\Debug\MyMath.pdb
+C:\Users\Саша\Desktop\Курсачи\TRPO\MyMath\obj\Debug\MyMath.dll
+C:\Users\Саша\Desktop\Курсачи\TRPO\MyMath\obj\Debug\MyMath.pdb
